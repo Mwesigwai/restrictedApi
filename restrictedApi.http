@@ -1,0 +1,6 @@
+@restrictedApi_HostAddress = http://localhost:5051
+
+GET {{restrictedApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

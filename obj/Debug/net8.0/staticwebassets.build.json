@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WWqYGxDgq3C2Ju+8pLfA+vDcvSkBSwEHkX9PjLGUriQ=",
+  "Source": "restrictedApi",
+  "BasePath": "_content/restrictedApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
